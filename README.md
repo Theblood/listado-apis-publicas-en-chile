@@ -82,10 +82,8 @@
 
 
 ### Otros
--  [Rutificador](https://rutificador.porsilapongo.cl/):	Pequeño servicio REST que nos permite obtener los datos de una persona buscando a través de su nombre o rut.
+- [Celuzador](https://celuzador.000webhostapp.com/): Obtiene el nombre y la foto de whatsapp de un posible dueño de un numero de telefono.
 - [RAE](https://rae.porsilapongo.cl/): Api-REST que extrae informacion desde la RAE (Real Academia española) el significado de una palabra.
-- [ByPassCors](https://bypasscors.porsilapongo.cl/): Crea una solicitud http la cual incluye los encabezados CORS en la respuesta con el fin de bypasear y/o saltar los bloqueos de extraccion de datos.
-
 - [🇨🇱 Chilean Birds 🐦 ](https://aves.ninjas.cl/api/birds): API con información sobre Aves de Chile usando datos de [Buscaves.cl](http://buscaves.cl/).
 - [LibreAPI](https://libreapi.cl): LibreAPI es una API multipropósito, gratuita y de código abierto que ofrece busqueda de RUTs, información meteorológica, conversión de divisas, datos económicos y más. Docs [EN](http://docs.libreapi.cl/en/)/[ES](http://docs.libreapi.cl/es/).
 
